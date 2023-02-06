@@ -1,0 +1,12 @@
+body { background-color: #262626; }
+
+p { color: #bbbbbb; }
+h1 { color: #bbbbbb; }
+#aboutme {float: left; 
+width: 1024px; }
+#indexabout {float: left; 
+width: 1024px; }
+#sailing { float: right; margin-right: 1100px; }
+#self { float: top; }
+#uri { float: bottom; }
+#portrait { float: bottom; margin-right: 50px; }
